@@ -25,14 +25,15 @@ const styles = StyleSheet.create({
         backgroundColor: '#F0EEEE',
         height: 50,
         borderRadius: 10,
-        margin: 15,
+        margin: 10,
         flexDirection: 'row',
     },
     TextInput: {
         flex: 1,
         margin: 7,
         padding: 10,
-        fontSize: 20,
+        fontWeight: 'bold',
+        color: 'rgba(0,0,0,0.7)'
     },
     icon: {
         fontSize: 40,
